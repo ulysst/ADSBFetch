@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
@@ -28,18 +29,44 @@ namespace SeleniumWebDriverDemo
             // Zooms Out MAP
             Thread.Sleep(1000);
             wp.ZoomOut(7);
-            /*---------------------------Fetching------------------------------*/
-            Thread.Sleep(5000);
-            FetchBoard fb = new FetchBoard();
-            var planes = fb.GetTextFromXPath(wp.GetDriver(),"//*[@id=\"planesTable\"]\n");
             
-            /*---------------------------Exporting-----------------------------*/
-            
-            var jsonWriter = new JsonExport();
-            jsonWriter.WriteToJsonFile(planes, "output.json");
+            /*-----------------------CreateJSONServer--------------------------*/
+         
+            Thread serverThread = new Thread(StartJsonServer);
+            serverThread.Start();
+
+            /*---------------------Fetching and Exporting----------------------*/
+            while (true) 
+            {
+                // Fetch data
+                FetchBoard fb = new FetchBoard();
+                var planes = fb.GetTextFromXPath(wp.GetDriver(),"//*[@id=\"planesTable\"]\n");
+                
+                // Export data
+                var jsonWriter = new JsonExport();
+                jsonWriter.WriteToJsonFile(planes, "output.json");
+                
+                // Sleep for some time before fetching again
+                Thread.Sleep(1000);
+            }
             
             /*---------------------------Closing-------------------------------*/
             wp.CloseBrowser(100000);
+        }
+
+        static void StartJsonServer()
+        {
+            OpenJSONServer opj = new OpenJSONServer();
+            opj.StartJsonServer();
+            
+            AppDomain.CurrentDomain.ProcessExit += OnProcessExit;
+        }
+        
+        static void OnProcessExit(object sender, EventArgs e)
+        {
+            // Close port activity
+            OpenJSONServer opj = new OpenJSONServer();
+            opj.ClosePortActivity(3001); // Change the port number as needed
         }
     }
 }
