@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WX7LqEXal7EmwtK/5IQwxO5O3vtankgIRUMft0d9CQ1JivjDF8vI+CM6UXDnolugPOqMblgnjI5Oh8lTB1Sbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBCatcher\\ADSBCatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\selenium.webdriver.chromedriver\\125.0.6422.7800\\selenium.webdriver.chromedriver.125.0.6422.7800.nupkg.sha512",
+    "C:\\Users\\LELAB_01\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
