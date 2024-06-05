@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBCatcher\\ADSBCatcher.csproj": {}
+    "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBFetch\\ADSBCatcher\\ADSBCatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBCatcher\\ADSBCatcher.csproj": {
+    "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBFetch\\ADSBCatcher\\ADSBCatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBCatcher\\ADSBCatcher.csproj",
+        "projectUniqueName": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBFetch\\ADSBCatcher\\ADSBCatcher.csproj",
         "projectName": "ADSBCatcher",
-        "projectPath": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBCatcher\\ADSBCatcher.csproj",
+        "projectPath": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBFetch\\ADSBCatcher\\ADSBCatcher.csproj",
         "packagesPath": "C:\\Users\\LELAB_01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBCatcher\\obj\\",
+        "outputPath": "C:\\Users\\LELAB_01\\Documents\\Unreal Projects\\ADSBFetch\\ADSBCatcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

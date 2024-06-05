@@ -8,9 +8,9 @@ namespace SeleniumWebDriverDemo
 {
     public class FetchBoard
     {
-        public List<string> GetTextFromXPath(IWebDriver driver, string XPath)
+        public List<FlightData> GetTextFromXPath(IWebDriver driver, string XPath)
         {
-            List<string> planes = new List<string>();
+            List<FlightData> flightDataList = new List<FlightData>();
 
             try
             {
@@ -23,13 +23,31 @@ namespace SeleniumWebDriverDemo
                 // Split the text into lines
                 string[] lines = text.Split(new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
 
-                // Check each line for six spaces and add to the list if found
+                // Iterate through each line
                 foreach (string line in lines)
                 {
-                    if (LineHasSixSpaces(line))
+                    // Split the line by spaces
+                    string[] parts = line.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+                    // Check if there are exactly 6 parts
+                    if (parts.Length == 9)
                     {
-                        string cleanedLine = CleanLine(line);
-                        planes.Add(cleanedLine);
+                        // Create a FlightData object
+                        FlightData flightData = new FlightData
+                        {
+                            Callsign = parts[0],
+                            Registration = parts[1],
+                            Altitude = parts[2],
+                            Speed = parts[3],
+                            VerticalRate = parts[4],
+                            Latitude = parts[5],
+                            Longitude = parts[6],
+                            WindDirection = parts[7],
+                            WindSpeed = parts[8]
+                        };
+
+                        // Add FlightData object to the list
+                        flightDataList.Add(flightData);
                     }
                 }
 
@@ -44,31 +62,20 @@ namespace SeleniumWebDriverDemo
                 Console.WriteLine("An error occurred while retrieving text: " + ex.Message);
             }
 
-            return planes;
+            return flightDataList;
         }
+    }
 
-        private bool LineHasSixSpaces(string line)
-        {
-            // Split the line by spaces
-            string[] parts = line.Split(' ');
-
-            // Count the number of spaces
-            int spaceCount = parts.Length - 1; // Subtract 1 since Split always returns one more element than the number of separators
-
-            // Return true if the number of spaces is exactly 6
-            return spaceCount == 6;
-        }
-
-        private string CleanLine(string line)
-        {
-            // Remove any character that is not a letter, number, or space
-            // Remove narrow no-break spaces (Unicode: U+202F)
-            string cleanedLine = new string(line.Where(c => char.IsLetterOrDigit(c) || char.IsWhiteSpace(c)).ToArray());
-
-            // Remove specific unwanted characters
-            cleanedLine = Regex.Replace(cleanedLine, @"[\u202F]", string.Empty);
-
-            return cleanedLine;
-        }
+    public class FlightData
+    {
+        public string Callsign { get; set; }
+        public string Registration { get; set; }
+        public string Altitude { get; set; }
+        public string Speed { get; set; }
+        public string VerticalRate { get; set; }
+        public string Latitude { get; set; }
+        public string Longitude { get; set; }
+        public string WindDirection { get; set; }
+        public string WindSpeed { get; set; }
     }
 }

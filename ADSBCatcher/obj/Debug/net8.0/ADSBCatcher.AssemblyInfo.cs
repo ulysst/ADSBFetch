@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADSBCatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de0b10b8099957078ea179b7bf05e5373e500c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADSBCatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADSBCatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
