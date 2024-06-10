@@ -38,8 +38,8 @@ namespace SeleniumWebDriverDemo
             new FilterOption { XPath = "//*[@id='column_lon_cb']", IsSelected = true },            // LONGITUDE
             new FilterOption { XPath = "//*[@id='column_data_source_cb']", IsSelected = false },    // SOURCE
             new FilterOption { XPath = "//*[@id='column_military_cb']", IsSelected = false },       // MILITARY
-            new FilterOption { XPath = "//*[@id='column_wd_cb']", IsSelected = true },            // WIND DIRECTION
-            new FilterOption { XPath = "//*[@id='column_ws_cb']", IsSelected = true }             // WIND SPEED
+            new FilterOption { XPath = "//*[@id='column_wd_cb']", IsSelected = false },            // WIND DIRECTION
+            new FilterOption { XPath = "//*[@id='column_ws_cb']", IsSelected = false }             // WIND SPEED
         };
         public void OpenBrowser(string url)
         {

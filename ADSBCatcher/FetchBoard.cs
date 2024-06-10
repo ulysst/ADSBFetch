@@ -30,7 +30,7 @@ namespace SeleniumWebDriverDemo
                     string[] parts = line.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
                     // Check if there are exactly 6 parts
-                    if (parts.Length == 9)
+                    if (parts.Length == 7)
                     {
                         // Create a FlightData object
                         FlightData flightData = new FlightData
@@ -42,8 +42,6 @@ namespace SeleniumWebDriverDemo
                             VerticalRate = parts[4],
                             Latitude = parts[5],
                             Longitude = parts[6],
-                            WindDirection = parts[7],
-                            WindSpeed = parts[8]
                         };
 
                         // Add FlightData object to the list
@@ -75,7 +73,5 @@ namespace SeleniumWebDriverDemo
         public string VerticalRate { get; set; }
         public string Latitude { get; set; }
         public string Longitude { get; set; }
-        public string WindDirection { get; set; }
-        public string WindSpeed { get; set; }
     }
 }

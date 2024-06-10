@@ -1,686 +1,1228 @@
 {
   "planes": {
-    "PAT78": {
-      "Callsign": "PAT78",
-      "Registration": "04-01778",
-      "Altitude": "19000 ",
-      "Speed": "373",
-      "VerticalRate": "0",
-      "Latitude": "50.0381",
-      "Longitude": "1.9271",
-      "WindDirection": "281°",
-      "WindSpeed": "61"
+    "IAM4685": {
+      "Callsign": "IAM4685",
+      "Registration": "MM62193",
+      "Altitude": "26000 ",
+      "Speed": "256",
+      "VerticalRate": "32",
+      "Latitude": "51.3050",
+      "Longitude": "0.4879"
     },
-    "MET25": {
-      "Callsign": "MET25",
-      "Registration": "709FM",
-      "Altitude": "10500▲",
-      "Speed": "260",
-      "VerticalRate": "320",
-      "Latitude": "49.1216",
-      "Longitude": "0.5817",
-      "WindDirection": "262°",
-      "WindSpeed": "30"
+    "OMEGA3": {
+      "Callsign": "OMEGA3",
+      "Registration": "D-483",
+      "Altitude": "925 ",
+      "Speed": "71",
+      "VerticalRate": "-136",
+      "Latitude": "51.5660",
+      "Longitude": "4.9554"
     },
-    "BAF70": {
-      "Callsign": "BAF70",
-      "Registration": "OO-LUM",
-      "Altitude": "13950▼",
-      "Speed": "267",
-      "VerticalRate": "-1280",
-      "Latitude": "48.9087",
-      "Longitude": "0.8618",
-      "WindDirection": "279°",
-      "WindSpeed": "52"
-    },
-    "DAF7733": {
-      "Callsign": "DAF7733",
-      "Registration": "B-537",
-      "Altitude": "30000 ",
-      "Speed": "362",
-      "VerticalRate": "0",
-      "Latitude": "50.7658",
-      "Longitude": "-0.9922",
-      "WindDirection": "263°",
-      "WindSpeed": "75"
-    },
-    "CARVEX22": {
-      "Callsign": "CARVEX22",
-      "Registration": "F-RBAJ",
-      "Altitude": "1025▼",
-      "Speed": "194",
-      "VerticalRate": "-256",
-      "Latitude": "48.1349",
-      "Longitude": "1.6146",
-      "WindDirection": "322°",
-      "WindSpeed": "4"
-    },
-    "CVX21": {
-      "Callsign": "CVX21",
-      "Registration": "F-RBAB",
-      "Altitude": "1050▼",
-      "Speed": "192",
-      "VerticalRate": "-832",
-      "Latitude": "48.1338",
-      "Longitude": "1.6091",
-      "WindDirection": "333°",
-      "WindSpeed": "4"
-    },
-    "MET24": {
-      "Callsign": "MET24",
-      "Registration": "709FJ",
-      "Altitude": "2375 ",
-      "Speed": "186",
-      "VerticalRate": "64",
-      "Latitude": "49.3595",
-      "Longitude": "-1.2942",
-      "WindDirection": "312°",
-      "WindSpeed": "10"
-    },
-    "FAF6022": {
-      "Callsign": "FAF6022",
-      "Registration": "F-HKCI",
-      "Altitude": "3375 ",
-      "Speed": "152",
-      "VerticalRate": "0",
-      "Latitude": "51.5202",
-      "Longitude": "-1.7061",
-      "WindDirection": "283°",
-      "WindSpeed": "9"
-    },
-    "RRR2298": {
-      "Callsign": "RRR2298",
-      "Registration": "ZZ343",
-      "Altitude": "27000 ",
-      "Speed": "444",
-      "VerticalRate": "-160",
-      "Latitude": "52.9736",
-      "Longitude": "5.7661",
-      "WindDirection": "252°",
-      "WindSpeed": "84"
-    },
-    "BCT812": {
-      "Callsign": "BCT812",
-      "Registration": "ZZ171",
-      "Altitude": "6000 ",
-      "Speed": "268",
-      "VerticalRate": "0",
-      "Latitude": "51.6289",
-      "Longitude": "-1.8312",
-      "WindDirection": "293°",
-      "WindSpeed": "16"
-    },
-    "SUI721": {
-      "Callsign": "SUI721",
-      "Registration": "T-721",
-      "Altitude": "9000 ",
-      "Speed": "184",
-      "VerticalRate": "96",
-      "Latitude": "49.8412",
-      "Longitude": "7.6359",
-      "WindDirection": "257°",
-      "WindSpeed": "25"
-    },
-    "VANT36": {
-      "Callsign": "VANT36",
-      "Registration": "F-UJCR",
-      "Altitude": "25000 ",
-      "Speed": "377",
-      "VerticalRate": "-128",
-      "Latitude": "47.3636",
-      "Longitude": "1.3244",
-      "WindDirection": "262°",
-      "WindSpeed": "65"
-    },
-    "CWL41": {
-      "Callsign": "CWL41",
-      "Registration": "ZM333",
-      "Altitude": "9850▼",
-      "Speed": "176",
-      "VerticalRate": "-320",
-      "Latitude": "53.3879",
-      "Longitude": "-0.0230",
-      "WindDirection": "282°",
-      "WindSpeed": "22"
-    },
-    "JIGSW95": {
-      "Callsign": "JIGSW95",
-      "Registration": "ZM418",
-      "Altitude": "500▼",
-      "Speed": "263",
-      "VerticalRate": "-416",
-      "Latitude": "51.9216",
-      "Longitude": "-2.6379",
-      "WindDirection": "290°",
-      "WindSpeed": "10"
-    },
-    "FNF289": {
-      "Callsign": "FNF289",
-      "Registration": "LJ-1",
-      "Altitude": "30975▼",
-      "Speed": "352",
-      "VerticalRate": "-960",
-      "Latitude": "50.7875",
-      "Longitude": "9.6963",
-      "WindDirection": "258°",
-      "WindSpeed": "74"
-    },
-    "CTM1276": {
-      "Callsign": "CTM1276",
-      "Registration": "F-RAFP",
-      "Altitude": "23675▼",
-      "Speed": "381",
-      "VerticalRate": "-1248",
-      "Latitude": "48.6818",
-      "Longitude": "-3.2519",
-      "WindDirection": "296°",
-      "WindSpeed": "72"
-    },
-    "FMY8042": {
-      "Callsign": "FMY8042",
-      "Registration": "F-MABO",
-      "Altitude": "25000 ",
-      "Speed": "313",
-      "VerticalRate": "0",
-      "Latitude": "46.2614",
-      "Longitude": "0.7338",
-      "WindDirection": "254°",
-      "WindSpeed": "41"
-    },
-    "NAVY572": {
-      "Callsign": "NAVY572",
-      "Registration": "ZZ502",
-      "Altitude": "5925▼",
-      "Speed": "190",
-      "VerticalRate": "-1664",
-      "Latitude": "50.2382",
-      "Longitude": "-5.3736",
-      "WindDirection": "262°",
-      "WindSpeed": "7"
-    },
-    "GAF824": {
-      "Callsign": "GAF824",
-      "Registration": "15+01",
+    "IRL280": {
+      "Callsign": "IRL280",
+      "Registration": "280",
       "Altitude": "28000 ",
-      "Speed": "404",
+      "Speed": "300",
       "VerticalRate": "0",
-      "Latitude": "52.0745",
-      "Longitude": "11.0149",
-      "WindDirection": "253°",
-      "WindSpeed": "79"
+      "Latitude": "52.2869",
+      "Longitude": "3.2208"
     },
-    "NAVY571": {
-      "Callsign": "NAVY571",
-      "Registration": "ZZ501",
-      "Altitude": "6000 ",
-      "Speed": "196",
-      "VerticalRate": "-32",
-      "Latitude": "50.8091",
-      "Longitude": "-5.6049",
-      "WindDirection": "255°",
-      "WindSpeed": "3"
+    "BAT03": {
+      "Callsign": "BAT03",
+      "Registration": "Q-39",
+      "Altitude": "500 ",
+      "Speed": "2",
+      "VerticalRate": "-64",
+      "Latitude": "51.7187",
+      "Longitude": "4.9642"
     },
-    "TES72": {
-      "Callsign": "TES72",
-      "Registration": "A-101",
-      "Altitude": "12425▲",
-      "Speed": "249",
-      "VerticalRate": "1856",
-      "Latitude": "46.8571",
-      "Longitude": "8.8419",
-      "WindDirection": "277°",
-      "WindSpeed": "41"
+    "MACE73": {
+      "Callsign": "MACE73",
+      "Registration": "FB-20",
+      "Altitude": "500▼",
+      "Speed": "143",
+      "VerticalRate": "-1248",
+      "Latitude": "51.1805",
+      "Longitude": "5.5058"
     },
-    "COL72": {
-      "Callsign": "COL72",
-      "Registration": "A-103",
-      "Altitude": "12575▲",
-      "Speed": "136",
-      "VerticalRate": "1600",
-      "Latitude": "47.0914",
-      "Longitude": "9.3050",
-      "WindDirection": "291°",
-      "WindSpeed": "30"
+    "SPADE81": {
+      "Callsign": "SPADE81",
+      "Registration": "96-26666",
+      "Altitude": "2600▼",
+      "Speed": "127",
+      "VerticalRate": "-640",
+      "Latitude": "48.7864",
+      "Longitude": "4.2227"
     },
-    "CEV4651": {
-      "Callsign": "CEV4651",
-      "Registration": "F-RBAU",
-      "Altitude": "27975 ",
-      "Speed": "413",
-      "VerticalRate": "-192",
-      "Latitude": "44.7389",
-      "Longitude": "1.0058",
-      "WindDirection": "263°",
-      "WindSpeed": "46"
+    "SPADE80": {
+      "Callsign": "SPADE80",
+      "Registration": "92-26459",
+      "Altitude": "6075 ",
+      "Speed": "148",
+      "VerticalRate": "0",
+      "Latitude": "48.5700",
+      "Longitude": "3.9679"
     },
-    "DRAG141": {
-      "Callsign": "DRAG141",
-      "Registration": "VF-141",
-      "Altitude": "3100▲",
+    "HUAF259": {
+      "Callsign": "HUAF259",
+      "Registration": "605",
+      "Altitude": "38000 ",
+      "Speed": "436",
+      "VerticalRate": "-64",
+      "Latitude": "52.6258",
+      "Longitude": "4.4697"
+    },
+    "SHF268": {
+      "Callsign": "SHF268",
+      "Registration": "ZA677",
+      "Altitude": "1200 ",
       "Speed": "141",
-      "VerticalRate": "896",
-      "Latitude": "45.8574",
-      "Longitude": "8.8943",
-      "WindDirection": "228°",
-      "WindSpeed": "6"
-    },
-    "VALOR30": {
-      "Callsign": "VALOR30",
-      "Registration": "01-0030",
-      "Altitude": "18000 ",
-      "Speed": "371",
       "VerticalRate": "0",
-      "Latitude": "44.3908",
-      "Longitude": "0.7515",
-      "WindDirection": "298°",
-      "WindSpeed": "25"
+      "Latitude": "51.6453",
+      "Longitude": "-1.2511"
+    },
+    "VICTR50": {
+      "Callsign": "VICTR50",
+      "Registration": "ZJ134",
+      "Altitude": "4050 ",
+      "Speed": "149",
+      "VerticalRate": "-64",
+      "Latitude": "50.7916",
+      "Longitude": "-1.8401"
+    },
+    "VICTR52": {
+      "Callsign": "VICTR52",
+      "Registration": "ZJ992",
+      "Altitude": "1675▲",
+      "Speed": "68",
+      "VerticalRate": "984",
+      "Latitude": "50.7891",
+      "Longitude": "-1.8521"
+    },
+    "PRF58": {
+      "Callsign": "PRF58",
+      "Registration": "ZM300",
+      "Altitude": "2275 ",
+      "Speed": "139",
+      "VerticalRate": "-80",
+      "Latitude": "52.7648",
+      "Longitude": "-0.3102"
+    },
+    "CHAOS012": {
+      "Callsign": "CHAOS012",
+      "Registration": "ZK308",
+      "Altitude": "1100 ",
+      "Speed": "189",
+      "VerticalRate": "0",
+      "Latitude": "53.0861",
+      "Longitude": "-0.1053"
+    },
+    "PNTHR76": {
+      "Callsign": "PNTHR76",
+      "Registration": "ZM734",
+      "Altitude": "600 ",
+      "Speed": "75",
+      "VerticalRate": "-192",
+      "Latitude": "51.1527",
+      "Longitude": "-2.0979"
+    },
+    "IAM1400": {
+      "Callsign": "IAM1400",
+      "Registration": "MM62332",
+      "Altitude": "43000 ",
+      "Speed": "444",
+      "VerticalRate": "-64",
+      "Latitude": "52.8394",
+      "Longitude": "-0.7427"
+    },
+    "VALOR42": {
+      "Callsign": "VALOR42",
+      "Registration": "84-0096",
+      "Altitude": "4750▲",
+      "Speed": "243",
+      "VerticalRate": "4032",
+      "Latitude": "49.4683",
+      "Longitude": "7.5920"
+    },
+    "CWL51": {
+      "Callsign": "CWL51",
+      "Registration": "ZM336",
+      "Altitude": "1325▲",
+      "Speed": "159",
+      "VerticalRate": "576",
+      "Latitude": "53.0315",
+      "Longitude": "-0.5139"
+    },
+    "IAM4188": {
+      "Callsign": "IAM4188",
+      "Registration": "MM62281",
+      "Altitude": "18000 ",
+      "Speed": "218",
+      "VerticalRate": "64",
+      "Latitude": "47.2141",
+      "Longitude": "3.8381"
+    },
+    "BLADE48": {
+      "Callsign": "BLADE48",
+      "Registration": "F-RBAV",
+      "Altitude": "23425▲",
+      "Speed": "318",
+      "VerticalRate": "1824",
+      "Latitude": "47.2611",
+      "Longitude": "1.4681"
+    },
+    "SHF515": {
+      "Callsign": "SHF515",
+      "Registration": "ZK559",
+      "Altitude": "750▲",
+      "Speed": "89",
+      "VerticalRate": "400",
+      "Latitude": "51.5045",
+      "Longitude": "-2.3491"
+    },
+    "TALON17": {
+      "Callsign": "TALON17",
+      "Registration": "ZZ531",
+      "Altitude": "600 ",
+      "Speed": "119",
+      "VerticalRate": "8",
+      "Latitude": "50.9686",
+      "Longitude": "-2.7116"
+    },
+    "RCH263": {
+      "Callsign": "RCH263",
+      "Registration": "19-5945",
+      "Altitude": "28000 ",
+      "Speed": "323",
+      "VerticalRate": "0",
+      "Latitude": "53.6365",
+      "Longitude": "-0.0704"
+    },
+    "CEV4517": {
+      "Callsign": "CEV4517",
+      "Registration": "F-ZCER",
+      "Altitude": "18000 ",
+      "Speed": "273",
+      "VerticalRate": "0",
+      "Latitude": "46.9962",
+      "Longitude": "1.0712"
+    },
+    "CAMEL1": {
+      "Callsign": "CAMEL1",
+      "Registration": "ZM333",
+      "Altitude": "11050 ",
+      "Speed": "223",
+      "VerticalRate": "0",
+      "Latitude": "53.6945",
+      "Longitude": "-0.4676"
+    },
+    "RCH104": {
+      "Callsign": "RCH104",
+      "Registration": "02-0314",
+      "Altitude": "26000 ",
+      "Speed": "249",
+      "VerticalRate": "0",
+      "Latitude": "49.4472",
+      "Longitude": "-2.9927"
+    },
+    "PCT317": {
+      "Callsign": "PCT317",
+      "Registration": "57+04",
+      "Altitude": "1725 ",
+      "Speed": "177",
+      "VerticalRate": "128",
+      "Latitude": "53.8882",
+      "Longitude": "7.2593"
+    },
+    "TUSK01": {
+      "Callsign": "TUSK01",
+      "Registration": "ZH899",
+      "Altitude": "1100 ",
+      "Speed": "105",
+      "VerticalRate": "80",
+      "Latitude": "53.5496",
+      "Longitude": "-2.5843"
+    },
+    "AXIS21": {
+      "Callsign": "AXIS21",
+      "Registration": "ZK036",
+      "Altitude": "8975▲",
+      "Speed": "352",
+      "VerticalRate": "4064",
+      "Latitude": "52.9993",
+      "Longitude": "-3.5145"
+    },
+    "LIFTER1": {
+      "Callsign": "LIFTER1",
+      "Registration": "54+45",
+      "Altitude": "1200▲",
+      "Speed": "253",
+      "VerticalRate": "576",
+      "Latitude": "52.5569",
+      "Longitude": "9.6111"
+    },
+    "JOKER21": {
+      "Callsign": "JOKER21",
+      "Registration": "77+01",
+      "Altitude": "4125 ",
+      "Speed": "104",
+      "VerticalRate": "0",
+      "Latitude": "49.5185",
+      "Longitude": "9.9720"
+    },
+    "FNY5628": {
+      "Callsign": "FNY5628",
+      "Registration": "24",
+      "Altitude": "19000 ",
+      "Speed": "280",
+      "VerticalRate": "0",
+      "Latitude": "47.1335",
+      "Longitude": "-2.2072"
+    },
+    "SONIC79": {
+      "Callsign": "SONIC79",
+      "Registration": "79+32",
+      "Altitude": "5125 ",
+      "Speed": "128",
+      "VerticalRate": "32",
+      "Latitude": "49.2541",
+      "Longitude": "10.0564"
+    },
+    "RMUS35": {
+      "Callsign": "RMUS35",
+      "Registration": "F-UJCR",
+      "Altitude": "27500 ",
+      "Speed": "488",
+      "VerticalRate": "-32",
+      "Latitude": "45.6814",
+      "Longitude": "3.1793"
+    },
+    "MAE41": {
+      "Callsign": "MAE41",
+      "Registration": "F-RBGF",
+      "Altitude": "8300▼",
+      "Speed": "268",
+      "VerticalRate": "-3328",
+      "Latitude": "46.1212",
+      "Longitude": "-0.5026"
+    },
+    "MAE42": {
+      "Callsign": "MAE42",
+      "Registration": "F-RBGD",
+      "Altitude": "8250▼",
+      "Speed": "271",
+      "VerticalRate": "-2624",
+      "Latitude": "46.1197",
+      "Longitude": "-0.5021"
+    },
+    "VYT13": {
+      "Callsign": "VYT13",
+      "Registration": "ZK012",
+      "Altitude": "8500▲",
+      "Speed": "302",
+      "VerticalRate": "17056",
+      "Latitude": "53.9365",
+      "Longitude": "-2.9663"
+    },
+    "FNY5117": {
+      "Callsign": "FNY5117",
+      "Registration": "16",
+      "Altitude": "18000 ",
+      "Speed": "288",
+      "VerticalRate": "0",
+      "Latitude": "46.7047",
+      "Longitude": "-2.0019"
+    },
+    "SYS105": {
+      "Callsign": "SYS105",
+      "Registration": "ZM525",
+      "Altitude": "2325 ",
+      "Speed": "72",
+      "VerticalRate": "-64",
+      "Latitude": "53.1675",
+      "Longitude": "-4.0290"
+    },
+    "SYS53": {
+      "Callsign": "SYS53",
+      "Registration": "ZM512",
+      "Altitude": "2100 ",
+      "Speed": "106",
+      "VerticalRate": "192",
+      "Latitude": "53.1800",
+      "Longitude": "-4.0508"
+    },
+    "SPARO49": {
+      "Callsign": "SPARO49",
+      "Registration": "D-HNHV",
+      "Altitude": "2275▼",
+      "Speed": "89",
+      "VerticalRate": "-384",
+      "Latitude": "48.4379",
+      "Longitude": "9.9211"
     },
     "COP25": {
       "Callsign": "COP25",
       "Registration": "1018",
-      "Altitude": "725 ",
-      "Speed": "188",
-      "VerticalRate": "0",
-      "Latitude": "44.5218",
-      "Longitude": "-1.1152",
-      "WindDirection": "47°",
-      "WindSpeed": "4"
+      "Altitude": "16500 ",
+      "Speed": "179",
+      "VerticalRate": "-32",
+      "Latitude": "45.6395",
+      "Longitude": "0.2711"
     },
-    "TPON17": {
-      "Callsign": "TPON17",
-      "Registration": "F-ZAFT",
-      "Altitude": "775 ",
-      "Speed": "187",
-      "VerticalRate": "0",
-      "Latitude": "44.5216",
-      "Longitude": "-1.1157",
-      "WindDirection": "137°",
-      "WindSpeed": "19"
+    "SONIC18": {
+      "Callsign": "SONIC18",
+      "Registration": "78+26",
+      "Altitude": "7025 ",
+      "Speed": "134",
+      "VerticalRate": "80",
+      "Latitude": "51.2211",
+      "Longitude": "10.9401"
     },
-    "AZUR21": {
-      "Callsign": "AZUR21",
-      "Registration": "702-CD",
-      "Altitude": "32000 ",
-      "Speed": "338",
-      "VerticalRate": "32",
-      "Latitude": "43.7166",
-      "Longitude": "2.3688",
-      "WindDirection": "260°",
-      "WindSpeed": "47"
+    "MAF21": {
+      "Callsign": "MAF21",
+      "Registration": "709FJ",
+      "Altitude": "10700▲",
+      "Speed": "269",
+      "VerticalRate": "832",
+      "Latitude": "45.6702",
+      "Longitude": "-0.0739"
     },
-    "RMUS35": {
-      "Callsign": "RMUS35",
-      "Registration": "F-UJCO",
+    "MAF23": {
+      "Callsign": "MAF23",
+      "Registration": "F-RBGB",
+      "Altitude": "10275▲",
+      "Speed": "258",
+      "VerticalRate": "1664",
+      "Latitude": "45.6622",
+      "Longitude": "-0.0738"
+    },
+    "VYT93": {
+      "Callsign": "VYT93",
+      "Registration": "ZM323",
+      "Altitude": "975▼",
+      "Speed": "140",
+      "VerticalRate": "-320",
+      "Latitude": "53.2531",
+      "Longitude": "-4.5033"
+    },
+    "VYT74": {
+      "Callsign": "VYT74",
+      "Registration": "ZM326",
+      "Altitude": "975▲",
+      "Speed": "223",
+      "VerticalRate": "1088",
+      "Latitude": "53.2506",
+      "Longitude": "-4.5405"
+    },
+    "MET51": {
+      "Callsign": "MET51",
+      "Registration": "709FQ",
+      "Altitude": "6600▲",
+      "Speed": "198",
+      "VerticalRate": "3776",
+      "Latitude": "45.5471",
+      "Longitude": "-0.2938"
+    },
+    "MET52": {
+      "Callsign": "MET52",
+      "Registration": "709FR",
+      "Altitude": "5475 ",
+      "Speed": "232",
+      "VerticalRate": "128",
+      "Latitude": "45.5520",
+      "Longitude": "-0.3351"
+    },
+    "DEVIL21": {
+      "Callsign": "DEVIL21",
+      "Registration": "ZK013",
+      "Altitude": "10125 ",
+      "Speed": "198",
+      "VerticalRate": "168",
+      "Latitude": "52.9694",
+      "Longitude": "-5.0897"
+    },
+    "TTN19": {
+      "Callsign": "TTN19",
+      "Registration": "ZZ338",
       "Altitude": "23000 ",
-      "Speed": "401",
-      "VerticalRate": "64",
-      "Latitude": "43.6310",
-      "Longitude": "2.3119",
-      "WindDirection": "268°",
-      "WindSpeed": "32"
+      "Speed": "303",
+      "VerticalRate": "32",
+      "Latitude": "55.9417",
+      "Longitude": "0.9558"
     },
-    "SUI523": {
-      "Callsign": "SUI523",
-      "Registration": "T-752",
-      "Altitude": "40000 ",
-      "Speed": "497",
+    "RRR7210": {
+      "Callsign": "RRR7210",
+      "Registration": "ZZ665",
+      "Altitude": "32975 ",
+      "Speed": "480",
+      "VerticalRate": "0",
+      "Latitude": "51.1689",
+      "Longitude": "11.6535"
+    },
+    "CTM1280": {
+      "Callsign": "CTM1280",
+      "Registration": "F-RAFC",
+      "Altitude": "31025 ",
+      "Speed": "486",
       "VerticalRate": "-64",
-      "Latitude": "43.5702",
-      "Longitude": "1.3150",
-      "WindDirection": "217°",
-      "WindSpeed": "50"
+      "Latitude": "44.7277",
+      "Longitude": "1.1487"
+    },
+    "VYT90": {
+      "Callsign": "VYT90",
+      "Registration": "ZM325",
+      "Altitude": "700▲",
+      "Speed": "257",
+      "VerticalRate": "512",
+      "Latitude": "55.6313",
+      "Longitude": "-2.5122"
+    },
+    "GAF328": {
+      "Callsign": "GAF328",
+      "Registration": "54+42",
+      "Altitude": "4075 ",
+      "Speed": "129",
+      "VerticalRate": "-192",
+      "Latitude": "47.8680",
+      "Longitude": "11.1287"
+    },
+    "RCH4188": {
+      "Callsign": "RCH4188",
+      "Registration": "09-9209",
+      "Altitude": "34000 ",
+      "Speed": "439",
+      "VerticalRate": "0",
+      "Latitude": "54.9769",
+      "Longitude": "-4.0720"
+    },
+    "PLF042": {
+      "Callsign": "PLF042",
+      "Registration": "017",
+      "Altitude": "12800▼",
+      "Speed": "238",
+      "VerticalRate": "-2448",
+      "Latitude": "48.8291",
+      "Longitude": "12.5402"
+    },
+    "VYT94": {
+      "Callsign": "VYT94",
+      "Registration": "ZM332",
+      "Altitude": "850 ",
+      "Speed": "239",
+      "VerticalRate": "-64",
+      "Latitude": "56.2046",
+      "Longitude": "-4.2064"
+    },
+    "JAKE17": {
+      "Callsign": "JAKE17",
+      "Registration": "64-14841",
+      "Altitude": "34000 ",
+      "Speed": "370",
+      "VerticalRate": "64",
+      "Latitude": "52.6369",
+      "Longitude": "14.0253"
+    },
+    "FENEC28": {
+      "Callsign": "FENEC28",
+      "Registration": "83-0495",
+      "Altitude": "27975 ",
+      "Speed": "292",
+      "VerticalRate": "-64",
+      "Latitude": "44.1919",
+      "Longitude": "8.2448"
+    },
+    "FNY5622": {
+      "Callsign": "FNY5622",
+      "Registration": "13",
+      "Altitude": "10800▲",
+      "Speed": "220",
+      "VerticalRate": "1504",
+      "Latitude": "57.3967",
+      "Longitude": "-3.4744"
+    },
+    "BLACK74": {
+      "Callsign": "BLACK74",
+      "Registration": "6M-BD",
+      "Altitude": "5200 ",
+      "Speed": "121",
+      "VerticalRate": "128",
+      "Latitude": "48.2918",
+      "Longitude": "14.8553"
+    },
+    "KANTO80": {
+      "Callsign": "KANTO80",
+      "Registration": "06-4633",
+      "Altitude": "26000 ",
+      "Speed": "311",
+      "VerticalRate": "0",
+      "Latitude": "56.9329",
+      "Longitude": "-6.2427"
+    },
+    "E10E3": {
+      "Callsign": "E10E3",
+      "Registration": "84-0085",
+      "Altitude": "38975 ",
+      "Speed": "471",
+      "VerticalRate": "-64",
+      "Latitude": "54.6307",
+      "Longitude": "15.4462"
+    },
+    "DAF8719": {
+      "Callsign": "DAF8719",
+      "Registration": "B-536",
+      "Altitude": "4225▼",
+      "Speed": "213",
+      "VerticalRate": "-736",
+      "Latitude": "43.5252",
+      "Longitude": "10.6257"
+    },
+    "CEF6012": {
+      "Callsign": "CEF6012",
+      "Registration": "0454",
+      "Altitude": "19000 ",
+      "Speed": "221",
+      "VerticalRate": "0",
+      "Latitude": "47.6346",
+      "Longitude": "15.6537"
+    },
+    "PLF105": {
+      "Callsign": "PLF105",
+      "Registration": "0001",
+      "Altitude": "3550▼",
+      "Speed": "264",
+      "VerticalRate": "-768",
+      "Latitude": "51.0026",
+      "Longitude": "16.9061"
+    },
+    "BLADE08": {
+      "Callsign": "BLADE08",
+      "Registration": "605",
+      "Altitude": "1400 ",
+      "Speed": "172",
+      "VerticalRate": "80",
+      "Latitude": "52.5431",
+      "Longitude": "17.2332"
+    },
+    "LSV966": {
+      "Callsign": "LSV966",
+      "Registration": "L9-66",
+      "Altitude": "24000 ",
+      "Speed": "314",
+      "VerticalRate": "0",
+      "Latitude": "41.1875",
+      "Longitude": "2.0903"
+    },
+    "SPAR93": {
+      "Callsign": "SPAR93",
+      "Registration": "01-0030",
+      "Altitude": "14700▼",
+      "Speed": "397",
+      "VerticalRate": "-2336",
+      "Latitude": "46.1043",
+      "Longitude": "15.3494"
+    },
+    "GAF608": {
+      "Callsign": "GAF608",
+      "Registration": "54+30",
+      "Altitude": "32975 ",
+      "Speed": "455",
+      "VerticalRate": "160",
+      "Latitude": "56.8863",
+      "Longitude": "14.8540"
+    },
+    "MR116": {
+      "Callsign": "MR116",
+      "Registration": "60116",
+      "Altitude": "14750▼",
+      "Speed": "388",
+      "VerticalRate": "-1464",
+      "Latitude": "57.7659",
+      "Longitude": "14.1697"
+    },
+    "MR40": {
+      "Callsign": "MR40",
+      "Registration": "60040",
+      "Altitude": "14775▼",
+      "Speed": "395",
+      "VerticalRate": "-1368",
+      "Latitude": "57.7891",
+      "Longitude": "14.1568"
+    },
+    "MR114": {
+      "Callsign": "MR114",
+      "Registration": "60114",
+      "Altitude": "11300▲",
+      "Speed": "149",
+      "VerticalRate": "2888",
+      "Latitude": "57.9805",
+      "Longitude": "13.8335"
+    },
+    "MR137": {
+      "Callsign": "MR137",
+      "Registration": "60137",
+      "Altitude": "17550 ",
+      "Speed": "304",
+      "VerticalRate": "56",
+      "Latitude": "57.8679",
+      "Longitude": "14.3060"
+    },
+    "CFC4444": {
+      "Callsign": "CFC4444",
+      "Registration": "330003",
+      "Altitude": "38000 ",
+      "Speed": "470",
+      "VerticalRate": "0",
+      "Latitude": "60.1255",
+      "Longitude": "9.7648"
+    },
+    "IAM1495": {
+      "Callsign": "IAM1495",
+      "Registration": "MM62303",
+      "Altitude": "10875▼",
+      "Speed": "261",
+      "VerticalRate": "-1728",
+      "Latitude": "42.3749",
+      "Longitude": "12.6263"
+    },
+    "MR41": {
+      "Callsign": "MR41",
+      "Registration": "60041",
+      "Altitude": "12850▼",
+      "Speed": "356",
+      "VerticalRate": "-1264",
+      "Latitude": "57.4555",
+      "Longitude": "16.5426"
+    },
+    "CONDR11": {
+      "Callsign": "CONDR11",
+      "Registration": "TR.20-01",
+      "Altitude": "17675▼",
+      "Speed": "295",
+      "VerticalRate": "-1024",
+      "Latitude": "42.6293",
+      "Longitude": "-7.8452"
+    },
+    "MR133": {
+      "Callsign": "MR133",
+      "Registration": "60133",
+      "Altitude": "12275 ",
+      "Speed": "329",
+      "VerticalRate": "8",
+      "Latitude": "57.6668",
+      "Longitude": "16.5875"
+    },
+    "PLF116": {
+      "Callsign": "PLF116",
+      "Registration": "0225",
+      "Altitude": "5275 ",
+      "Speed": "174",
+      "VerticalRate": "-128",
+      "Latitude": "49.9932",
+      "Longitude": "19.9166"
+    },
+    "IAM1550": {
+      "Callsign": "IAM1550",
+      "Registration": "MM82028",
+      "Altitude": "950▼",
+      "Speed": "154",
+      "VerticalRate": "-320",
+      "Latitude": "41.8293",
+      "Longitude": "12.5964"
+    },
+    "NOW335P": {
+      "Callsign": "NOW335P",
+      "Registration": "5699",
+      "Altitude": "27000 ",
+      "Speed": "325",
+      "VerticalRate": "-32",
+      "Latitude": "51.4425",
+      "Longitude": "20.7124"
+    },
+    "CNV4592": {
+      "Callsign": "CNV4592",
+      "Registration": "169036",
+      "Altitude": "38000 ",
+      "Speed": "430",
+      "VerticalRate": "0",
+      "Latitude": "59.0498",
+      "Longitude": "-10.1095"
+    },
+    "SVA7145": {
+      "Callsign": "SVA7145",
+      "Registration": "HZ-MF1",
+      "Altitude": "36000 ",
+      "Speed": "429",
+      "VerticalRate": "64",
+      "Latitude": "45.7106",
+      "Longitude": "18.6761"
+    },
+    "0217": {
+      "Callsign": "0217",
+      "Registration": "0217",
+      "Altitude": "900 ",
+      "Speed": "81",
+      "VerticalRate": "-64",
+      "Latitude": "51.5136",
+      "Longitude": "21.9463"
+    },
+    "CUCO502": {
+      "Callsign": "CUCO502",
+      "Registration": "T.19B-22",
+      "Altitude": "15125▲",
+      "Speed": "132",
+      "VerticalRate": "608",
+      "Latitude": "38.5443",
+      "Longitude": "0.0820"
     },
     "ATILA04": {
       "Callsign": "ATILA04",
       "Registration": "168204",
       "Altitude": "24000 ",
+      "Speed": "240",
+      "VerticalRate": "0",
+      "Latitude": "53.1700",
+      "Longitude": "22.1639"
+    },
+    "CNV6210": {
+      "Callsign": "CNV6210",
+      "Registration": "900530",
+      "Altitude": "10625▲",
+      "Speed": "211",
+      "VerticalRate": "1120",
+      "Latitude": "40.6862",
+      "Longitude": "14.4091"
+    },
+    "AQLA401": {
+      "Callsign": "AQLA401",
+      "Registration": "60088",
+      "Altitude": "2600 ",
+      "Speed": "354",
+      "VerticalRate": "56",
+      "Latitude": "60.0576",
+      "Longitude": "17.8572"
+    },
+    "TORDO50": {
+      "Callsign": "TORDO50",
+      "Registration": "E.27-24",
+      "Altitude": "3875▲",
+      "Speed": "233",
+      "VerticalRate": "256",
+      "Latitude": "38.0891",
+      "Longitude": "-1.7917"
+    },
+    "PANTR66": {
+      "Callsign": "PANTR66",
+      "Registration": "29802",
+      "Altitude": "1675▼",
+      "Speed": "150",
+      "VerticalRate": "-320",
+      "Latitude": "40.3456",
+      "Longitude": "-8.5407"
+    },
+    "TORDO57": {
+      "Callsign": "TORDO57",
+      "Registration": "E.27-14",
+      "Altitude": "15125 ",
+      "Speed": "194",
+      "VerticalRate": "64",
+      "Latitude": "37.9415",
+      "Longitude": "-1.6360"
+    },
+    "TORDO54": {
+      "Callsign": "TORDO54",
+      "Registration": "E.27-13",
+      "Altitude": "375▼",
+      "Speed": "120",
+      "VerticalRate": "-512",
+      "Latitude": "37.7589",
+      "Longitude": "-0.8324"
+    },
+    "TORDO53": {
+      "Callsign": "TORDO53",
+      "Registration": "E.27-07",
+      "Altitude": "1050▲",
+      "Speed": "195",
+      "VerticalRate": "320",
+      "Latitude": "37.6726",
+      "Longitude": "-0.9064"
+    },
+    "TORDO56": {
+      "Callsign": "TORDO56",
+      "Registration": "E.27-01",
+      "Altitude": "15175▼",
+      "Speed": "314",
+      "VerticalRate": "-1152",
+      "Latitude": "37.6890",
+      "Longitude": "-1.4127"
+    },
+    "7TVPF": {
+      "Callsign": "7TVPF",
+      "Registration": "7T-VPF",
+      "Altitude": "18025 ",
       "Speed": "227",
       "VerticalRate": "0",
-      "Latitude": "52.2461",
-      "Longitude": "13.8664",
-      "WindDirection": "236°",
-      "WindSpeed": "76"
+      "Latitude": "40.4750",
+      "Longitude": "15.1345"
     },
-    "SN61YG": {
-      "Callsign": "SN61YG",
-      "Registration": "SN-61YG",
-      "Altitude": "5950 ",
-      "Speed": "148",
-      "VerticalRate": "-128",
-      "Latitude": "53.9698",
-      "Longitude": "14.3176",
-      "WindDirection": "255°",
-      "WindSpeed": "14"
+    "TUAF148": {
+      "Callsign": "TUAF148",
+      "Registration": "93-005",
+      "Altitude": "38025 ",
+      "Speed": "440",
+      "VerticalRate": "64",
+      "Latitude": "46.2933",
+      "Longitude": "21.8655"
     },
-    "CFC3473": {
-      "Callsign": "CFC3473",
-      "Registration": "330002",
-      "Altitude": "575▼",
-      "Speed": "134",
-      "VerticalRate": "-640",
-      "Latitude": "45.4680",
-      "Longitude": "12.3043",
-      "WindDirection": "137°",
-      "WindSpeed": "9"
+    "SUI582": {
+      "Callsign": "SUI582",
+      "Registration": "T-752",
+      "Altitude": "39025 ",
+      "Speed": "483",
+      "VerticalRate": "64",
+      "Latitude": "47.1655",
+      "Longitude": "22.5011"
     },
-    "BLADE73": {
-      "Callsign": "BLADE73",
-      "Registration": "0515",
-      "Altitude": "1875▼",
-      "Speed": "74",
-      "VerticalRate": "-256",
-      "Latitude": "50.3763",
-      "Longitude": "16.1014",
-      "WindDirection": "226°",
-      "WindSpeed": "6"
+    "L6356": {
+      "Callsign": "L6356",
+      "Registration": "19202",
+      "Altitude": "525 ",
+      "Speed": "117",
+      "VerticalRate": "-64",
+      "Latitude": "39.8455",
+      "Longitude": "-8.8585"
     },
-    "IAM9001": {
-      "Callsign": "IAM9001",
-      "Registration": "MM62209",
-      "Altitude": "34000 ",
-      "Speed": "432",
+    "POLI112": {
+      "Callsign": "POLI112",
+      "Registration": "MM81819",
+      "Altitude": "250 ",
+      "Speed": "7",
+      "VerticalRate": "-64",
+      "Latitude": "41.1365",
+      "Longitude": "16.7579"
+    },
+    "29701": {
+      "Callsign": "29701",
+      "Registration": "29701",
+      "Altitude": "1025 ",
+      "Speed": "123",
       "VerticalRate": "0",
-      "Latitude": "43.3754",
-      "Longitude": "9.7616",
-      "WindDirection": "308°",
-      "WindSpeed": "38"
+      "Latitude": "39.3169",
+      "Longitude": "-8.1389"
     },
-    "IAM4661": {
-      "Callsign": "IAM4661",
-      "Registration": "MM62186",
-      "Altitude": "15025 ",
-      "Speed": "268",
-      "VerticalRate": "0",
-      "Latitude": "43.4022",
-      "Longitude": "10.3194",
-      "WindDirection": "281°",
-      "WindSpeed": "21"
-    },
-    "CTM1071": {
-      "Callsign": "CTM1071",
-      "Registration": "F-UJCU",
-      "Altitude": "41000 ",
-      "Speed": "504",
-      "VerticalRate": "0",
-      "Latitude": "46.4867",
-      "Longitude": "15.6852",
-      "WindDirection": "261°",
-      "WindSpeed": "35"
-    },
-    "MILAN79": {
-      "Callsign": "MILAN79",
-      "Registration": "F-ZBML",
-      "Altitude": "3625▲",
-      "Speed": "229",
-      "VerticalRate": "256",
-      "Latitude": "41.8132",
-      "Longitude": "8.8794",
-      "WindDirection": "36°",
-      "WindSpeed": "2"
-    },
-    "RCH8031": {
-      "Callsign": "RCH8031",
-      "Registration": "85-0004",
-      "Altitude": "36000 ",
-      "Speed": "412",
-      "VerticalRate": "32",
-      "Latitude": "48.7804",
-      "Longitude": "17.8967",
-      "WindDirection": "267°",
-      "WindSpeed": "35"
-    },
-    "PERSE71": {
-      "Callsign": "PERSE71",
-      "Registration": "MM62303",
-      "Altitude": "37000 ",
+    "IAM4660": {
+      "Callsign": "IAM4660",
+      "Registration": "MM62195",
+      "Altitude": "27000 ",
       "Speed": "338",
-      "VerticalRate": "64",
-      "Latitude": "53.9517",
-      "Longitude": "20.9268",
-      "WindDirection": "261°",
-      "WindSpeed": "50"
-    },
-    "RRR6232": {
-      "Callsign": "RRR6232",
-      "Registration": "ZZ178",
-      "Altitude": "35000 ",
-      "Speed": "470",
       "VerticalRate": "0",
-      "Latitude": "47.0742",
-      "Longitude": "19.8135",
-      "WindDirection": "262°",
-      "WindSpeed": "32"
+      "Latitude": "40.8749",
+      "Longitude": "16.9645"
     },
-    "HUSKY51": {
-      "Callsign": "HUSKY51",
-      "Registration": "5699",
-      "Altitude": "12975 ",
-      "Speed": "167",
-      "VerticalRate": "160",
-      "Latitude": "61.2501",
-      "Longitude": "11.4126",
-      "WindDirection": "253°",
-      "WindSpeed": "27"
-    },
-    "24": {
-      "Callsign": "24",
-      "Registration": "24",
-      "Altitude": "2875 ",
-      "Speed": "106",
-      "VerticalRate": "64",
-      "Latitude": "47.1525",
-      "Longitude": "20.5112",
-      "WindDirection": "192°",
-      "WindSpeed": "3"
-    },
-    "TORD40P": {
-      "Callsign": "TORD40P",
-      "Registration": "E.27-24",
-      "Altitude": "15825 ",
-      "Speed": "149",
-      "VerticalRate": "64",
-      "Latitude": "38.3487",
-      "Longitude": "-1.1682",
-      "WindDirection": "341°",
-      "WindSpeed": "13"
-    },
-    "MIGHY53": {
-      "Callsign": "MIGHY53",
-      "Registration": "5601",
-      "Altitude": "24525▲",
-      "Speed": "296",
-      "VerticalRate": "1056",
-      "Latitude": "62.4143",
-      "Longitude": "10.6755",
-      "WindDirection": "159°",
-      "WindSpeed": "34"
-    },
-    "TORDO45": {
-      "Callsign": "TORDO45",
-      "Registration": "E.27-21",
-      "Altitude": "12875▼",
-      "Speed": "263",
-      "VerticalRate": "-960",
-      "Latitude": "38.1125",
-      "Longitude": "-0.9310",
-      "WindDirection": "247°",
-      "WindSpeed": "17"
-    },
-    "TORDO46": {
-      "Callsign": "TORDO46",
-      "Registration": "E.27-13",
-      "Altitude": "13625▼",
-      "Speed": "309",
-      "VerticalRate": "-704",
-      "Latitude": "38.0292",
-      "Longitude": "-1.2145",
-      "WindDirection": "273°",
-      "WindSpeed": "9"
-    },
-    "TORDO41": {
-      "Callsign": "TORDO41",
-      "Registration": "E.27-17",
-      "Altitude": "14800▼",
+    "FDO8319": {
+      "Callsign": "FDO8319",
+      "Registration": "F-ZBGM",
+      "Altitude": "7700▼",
       "Speed": "235",
-      "VerticalRate": "-256",
-      "Latitude": "38.0838",
-      "Longitude": "-1.5468",
-      "WindDirection": "211°",
-      "WindSpeed": "13"
+      "VerticalRate": "-1088",
+      "Latitude": "36.6709",
+      "Longitude": "-4.1703"
     },
-    "TORDO47": {
-      "Callsign": "TORDO47",
-      "Registration": "E.27-15",
-      "Altitude": "13125▲",
-      "Speed": "152",
-      "VerticalRate": "832",
-      "Latitude": "37.7336",
-      "Longitude": "-1.2779",
-      "WindDirection": "258°",
-      "WindSpeed": "7"
+    "IAM1481": {
+      "Callsign": "IAM1481",
+      "Registration": "MM62317",
+      "Altitude": "19950▼",
+      "Speed": "282",
+      "VerticalRate": "-1504",
+      "Latitude": "37.4571",
+      "Longitude": "12.4727"
     },
-    "TORD64": {
-      "Callsign": "TORD64",
-      "Registration": "E.27-14",
-      "Altitude": "7425▲",
-      "Speed": "188",
-      "VerticalRate": "3648",
-      "Latitude": "37.6679",
-      "Longitude": "-0.9069",
-      "WindDirection": "230°",
-      "WindSpeed": "18"
+    "7TVPG": {
+      "Callsign": "7TVPG",
+      "Registration": "7T-VPG",
+      "Altitude": "19825▼",
+      "Speed": "399",
+      "VerticalRate": "-1984",
+      "Latitude": "35.6676",
+      "Longitude": "0.7219"
     },
-    "TORDO48": {
-      "Callsign": "TORDO48",
-      "Registration": "E.27-10",
-      "Altitude": "13575▼",
-      "Speed": "257",
-      "VerticalRate": "-1024",
-      "Latitude": "37.5829",
-      "Longitude": "-1.1913",
-      "WindDirection": "344°",
-      "WindSpeed": "58"
-    },
-    "BRS035": {
-      "Callsign": "BRS035",
-      "Registration": "2585",
-      "Altitude": "41000 ",
-      "Speed": "401",
-      "VerticalRate": "128",
-      "Latitude": "37.6223",
-      "Longitude": "-2.3157",
-      "WindDirection": "278°",
-      "WindSpeed": "35"
-    },
-    "RCH164": {
-      "Callsign": "RCH164",
-      "Registration": "01-0189",
-      "Altitude": "32000 ",
-      "Speed": "432",
-      "VerticalRate": "-32",
-      "Latitude": "46.0294",
-      "Longitude": "21.9194",
-      "WindDirection": "305°",
-      "WindSpeed": "21"
-    },
-    "TUAF214": {
-      "Callsign": "TUAF214",
-      "Registration": "17-0080",
-      "Altitude": "32975▲",
-      "Speed": "420",
-      "VerticalRate": "864",
-      "Latitude": "44.5150",
-      "Longitude": "23.4112",
-      "WindDirection": "326°",
-      "WindSpeed": "18"
-    },
-    "AFB602": {
-      "Callsign": "AFB602",
-      "Registration": "602",
-      "Altitude": "3800 ",
-      "Speed": "110",
-      "VerticalRate": "192",
-      "Latitude": "43.5444",
-      "Longitude": "24.1819",
-      "WindDirection": "19°",
-      "WindSpeed": "7"
-    },
-    "DUKE76": {
-      "Callsign": "DUKE76",
-      "Registration": "84-00156",
-      "Altitude": "11675▼",
-      "Speed": "308",
-      "VerticalRate": "-1472",
-      "Latitude": "66.1510",
-      "Longitude": "25.4621",
-      "WindDirection": "145°",
-      "WindSpeed": "40"
-    },
-    "SVA7134": {
-      "Callsign": "SVA7134",
-      "Registration": "HZ-MF1",
-      "Altitude": "34000 ",
-      "Speed": "442",
+    "CFC2921": {
+      "Callsign": "CFC2921",
+      "Registration": "130603",
+      "Altitude": "25000 ",
+      "Speed": "335",
       "VerticalRate": "0",
-      "Latitude": "29.3764",
-      "Longitude": "32.4660",
-      "WindDirection": "251°",
-      "WindSpeed": "42"
+      "Latitude": "43.2908",
+      "Longitude": "23.6675"
     },
-    "RTP742": {
-      "Callsign": "RTP742",
-      "Registration": "33742",
-      "Altitude": "4000▼",
-      "Speed": "221",
-      "VerticalRate": "-448",
-      "Latitude": "14.1496",
-      "Longitude": "100.7423",
-      "WindDirection": "238°",
-      "WindSpeed": "13"
+    "N21": {
+      "Callsign": "N21",
+      "Registration": "CC-2",
+      "Altitude": "9875▲",
+      "Speed": "202",
+      "VerticalRate": "480",
+      "Latitude": "61.3056",
+      "Longitude": "24.3150"
+    },
+    "FNF294": {
+      "Callsign": "FNF294",
+      "Registration": "PI-06",
+      "Altitude": "29000 ",
+      "Speed": "319",
+      "VerticalRate": "0",
+      "Latitude": "61.6969",
+      "Longitude": "24.6183"
+    },
+    "MAI335": {
+      "Callsign": "MAI335",
+      "Registration": "335",
+      "Altitude": "1600 ",
+      "Speed": "104",
+      "VerticalRate": "-128",
+      "Latitude": "44.7439",
+      "Longitude": "25.7111"
+    },
+    "NATO03": {
+      "Callsign": "NATO03",
+      "Registration": "LX-N90442",
+      "Altitude": "29925▼",
+      "Speed": "377",
+      "VerticalRate": "-384",
+      "Latitude": "46.0008",
+      "Longitude": "27.2237"
+    },
+    "CTM1032": {
+      "Callsign": "CTM1032",
+      "Registration": "F-UJCP",
+      "Altitude": "38000 ",
+      "Speed": "432",
+      "VerticalRate": "0",
+      "Latitude": "37.3952",
+      "Longitude": "19.0090"
+    },
+    "AFB71B": {
+      "Callsign": "AFB71B",
+      "Registration": "071",
+      "Altitude": "7500▼",
+      "Speed": "245",
+      "VerticalRate": "-952",
+      "Latitude": "43.2078",
+      "Longitude": "27.4767"
+    },
+    "CNV4468": {
+      "Callsign": "CNV4468",
+      "Registration": "166694",
+      "Altitude": "36000 ",
+      "Speed": "444",
+      "VerticalRate": "64",
+      "Latitude": "30.3693",
+      "Longitude": "31.0905"
+    },
+    "SVA7165": {
+      "Callsign": "SVA7165",
+      "Registration": "HZ-MF3",
+      "Altitude": "34275▼",
+      "Speed": "460",
+      "VerticalRate": "-2048",
+      "Latitude": "22.8085",
+      "Longitude": "45.0059"
+    },
+    "HRCN60": {
+      "Callsign": "HRCN60",
+      "Registration": "164862",
+      "Altitude": "625▲",
+      "Speed": "123",
+      "VerticalRate": "320",
+      "Latitude": "26.7567",
+      "Longitude": "50.3908"
+    },
+    "ZAM16": {
+      "Callsign": "ZAM16",
+      "Registration": "QA368",
+      "Altitude": "1275▲",
+      "Speed": "200",
+      "VerticalRate": "1728",
+      "Latitude": "25.1041",
+      "Longitude": "51.3206"
+    },
+    "NJM313": {
+      "Callsign": "NJM313",
+      "Registration": "1215",
+      "Altitude": "3600▼",
+      "Speed": "362",
+      "VerticalRate": "-1736",
+      "Latitude": "24.9196",
+      "Longitude": "55.6150"
+    },
+    "VUAVB": {
+      "Callsign": "VUAVB",
+      "Registration": "K5013",
+      "Altitude": "32000 ",
+      "Speed": "438",
+      "VerticalRate": "0",
+      "Latitude": "25.1779",
+      "Longitude": "75.1859"
+    },
+    "SNIPER": {
+      "Callsign": "SNIPER",
+      "Registration": "761559",
+      "Altitude": "4600 ",
+      "Speed": "373",
+      "VerticalRate": "0",
+      "Latitude": "32.8943",
+      "Longitude": "-79.3925"
+    },
+    "VUAVF": {
+      "Callsign": "VUAVF",
+      "Registration": "K7067",
+      "Altitude": "37000 ",
+      "Speed": "515",
+      "VerticalRate": "0",
+      "Latitude": "27.3485",
+      "Longitude": "79.4482"
+    },
+    "RCH139": {
+      "Callsign": "RCH139",
+      "Registration": "00-0171",
+      "Altitude": "20000 ",
+      "Speed": "414",
+      "VerticalRate": "0",
+      "Latitude": "32.0456",
+      "Longitude": "-80.7756"
+    },
+    "RCH725": {
+      "Callsign": "RCH725",
+      "Registration": "06-6166",
+      "Altitude": "34000 ",
+      "Speed": "418",
+      "VerticalRate": "0",
+      "Latitude": "35.5532",
+      "Longitude": "-91.6843"
+    },
+    "72285": {
+      "Callsign": "72285",
+      "Registration": "13-72285",
+      "Altitude": "5325 ",
+      "Speed": "54",
+      "VerticalRate": "0",
+      "Latitude": "31.8013",
+      "Longitude": "-106.6141"
+    },
+    "E00184": {
+      "Callsign": "E00184",
+      "Registration": "00-0184",
+      "Altitude": "35000 ",
+      "Speed": "456",
+      "VerticalRate": "0",
+      "Latitude": "37.6144",
+      "Longitude": "-126.4485"
+    },
+    "RAIL37": {
+      "Callsign": "RAIL37",
+      "Registration": "92-13123",
+      "Altitude": "10225 ",
+      "Speed": "193",
+      "VerticalRate": "64",
+      "Latitude": "35.8822",
+      "Longitude": "128.5058"
+    },
+    "C2701": {
+      "Callsign": "C2701",
+      "Registration": "07-27010",
+      "Altitude": "975 ",
+      "Speed": "184",
+      "VerticalRate": "0",
+      "Latitude": "32.7726",
+      "Longitude": "-117.3870"
+    },
+    "FAB2590": {
+      "Callsign": "FAB2590",
+      "Registration": "2590",
+      "Altitude": "37000 ",
+      "Speed": "461",
+      "VerticalRate": "0",
+      "Latitude": "-19.0541",
+      "Longitude": "-45.6553"
+    },
+    "CBY212": {
+      "Callsign": "CBY212",
+      "Registration": "60302",
+      "Altitude": "8200▼",
+      "Speed": "291",
+      "VerticalRate": "-1536",
+      "Latitude": "14.0356",
+      "Longitude": "100.4899"
+    },
+    "SIRIUS": {
+      "Callsign": "SIRIUS",
+      "Registration": "FAB1389",
+      "Altitude": "4200▼",
+      "Speed": "216",
+      "VerticalRate": "-384",
+      "Latitude": "-21.7967",
+      "Longitude": "-47.5854"
+    },
+    "CO33": {
+      "Callsign": "CO33",
+      "Registration": "FAB1442",
+      "Altitude": "3800 ",
+      "Speed": "220",
+      "VerticalRate": "-64",
+      "Latitude": "-21.9454",
+      "Longitude": "-47.5356"
+    },
+    "CO85": {
+      "Callsign": "CO85",
+      "Registration": "FAB1441",
+      "Altitude": "2750▼",
+      "Speed": "199",
+      "VerticalRate": "-1024",
+      "Latitude": "-22.0301",
+      "Longitude": "-47.3786"
+    },
+    "FAB3701": {
+      "Callsign": "FAB3701",
+      "Registration": "FAB3701",
+      "Altitude": "13975▲",
+      "Speed": "302",
+      "VerticalRate": "3328",
+      "Latitude": "-22.7183",
+      "Longitude": "-46.7058"
+    },
+    "MAGIC09": {
+      "Callsign": "MAGIC09",
+      "Registration": "170111",
+      "Altitude": "12100 ",
+      "Speed": "185",
+      "VerticalRate": "32",
+      "Latitude": "26.8970",
+      "Longitude": "128.6272"
+    },
+    "RMF147": {
+      "Callsign": "RMF147",
+      "Registration": "M48-02",
+      "Altitude": "18275 ",
+      "Speed": "330",
+      "VerticalRate": "0",
+      "Latitude": "4.4323",
+      "Longitude": "101.0017"
     },
     "VOZ050": {
       "Callsign": "VOZ050",
-      "Registration": "VH-8IF",
+      "Registration": "VH-8IB",
       "Altitude": "37000 ",
-      "Speed": "556",
+      "Speed": "499",
       "VerticalRate": "0",
-      "Latitude": "-23.1555",
-      "Longitude": "145.2594",
-      "WindDirection": "286°",
-      "WindSpeed": "95"
+      "Latitude": "-24.2080",
+      "Longitude": "135.6556"
     },
-    "FNCH27": {
-      "Callsign": "FNCH27",
-      "Registration": "VH-YBG",
-      "Altitude": "2750▼",
-      "Speed": "116",
-      "VerticalRate": "-320",
-      "Latitude": "-27.3482",
-      "Longitude": "151.7631",
-      "WindDirection": "228°",
-      "WindSpeed": "18"
-    },
-    "TFX51": {
-      "Callsign": "TFX51",
-      "Registration": "VH-8TG",
-      "Altitude": "11050▼",
-      "Speed": "324",
-      "VerticalRate": "-1472",
-      "Latitude": "-26.9671",
-      "Longitude": "152.7263",
-      "WindDirection": "319°",
-      "WindSpeed": "34"
-    },
-    "VOZ985": {
-      "Callsign": "VOZ985",
+    "VOZ1404": {
+      "Callsign": "VOZ1404",
       "Registration": "VH-8IA",
-      "Altitude": "925▼",
-      "Speed": "132",
-      "VerticalRate": "-640",
-      "Latitude": "-27.3274",
-      "Longitude": "153.1612",
-      "WindDirection": "252°",
-      "WindSpeed": "21"
+      "Altitude": "28000 ",
+      "Speed": "392",
+      "VerticalRate": "0",
+      "Latitude": "-32.3871",
+      "Longitude": "145.8492"
     }
   }
 }
