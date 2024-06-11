@@ -51,7 +51,7 @@ namespace SeleniumWebDriverDemo
             }
             
             /*---------------------------Closing-------------------------------*/
-            wp.CloseBrowser(100000);
+            //wp.CloseBrowser(100000);
         }
 
         static void StartJsonServer()
